@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Chaosmatter
+- 👀 I’m interested in Politics, Programming and Gaming
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on great software :D
+- 📫 How to reach me: Write me on Discord (Quinton#6783) or text me via github
