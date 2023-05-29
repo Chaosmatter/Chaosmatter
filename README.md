@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Chaosmatter
-- 👀 I’m interested in Politics, Programming, Gaming and Psychologie (and i obviously like suits)
+- 👀 I’m interested in Politics, Programming, Gaming and Psychology (and i obviously like suits)
 - 💞️ I’m looking to collaborate on great software :D
 - 📫 How to reach me: Write me on Discord (Quinton#6783) or text me via github
